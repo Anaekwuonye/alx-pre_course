@@ -1,6 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
-Iecho "ALX School"
+Iecho "ALX School is cool!"
 =======
 Iecho "ALX School"
 >>>>>>> update_script
