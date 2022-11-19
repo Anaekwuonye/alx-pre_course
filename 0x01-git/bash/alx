@@ -1,6 +1,2 @@
-#!/bin/bash
-<<<<<<< HEAD
+i#!/bin/bash
 Iecho "ALX School"
-=======
-Iecho "ALX School"
->>>>>>> update_script
